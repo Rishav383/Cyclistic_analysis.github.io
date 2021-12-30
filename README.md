@@ -25,7 +25,7 @@ I found out some uncertanities in column member_casual there should be only 2 ch
 But the columns had 4 charaters - subsciber , casual , member , customer.
 Therefore I used some codes and changed it to 2 charaters 
 
-4. Analyze
+4.Analyze
 
 created new columns for months,weekdays and year for analysis and changed ride length to numeric,after that created new table and used code(summary) to get the statistics of data.
 created one more table to get the most and least used station for later marketing campaign.
@@ -36,7 +36,7 @@ In this step I created visuals of data to get the exact story that the data tell
 I used ggplot library in R for creating usefull visuals of data.
 I found out that casual riders rides mostly on weekend with greater length and the company have its peak on july and august.
 
-6. ACT and Conclusions
+6.ACT and Conclusions
 
 new offer should be introduced for membership which will include lower ride charges for members in weekends.
 reduced charges should be given for members after a particular ride length in weekends.
